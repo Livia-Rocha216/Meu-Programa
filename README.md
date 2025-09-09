@@ -31,6 +31,7 @@ Então, a ideia que eu tive pra esse programa era um Jogo de Perguntas, mas não
 
 - A partir da Pergunta 4), os textos terão números misturados (exceto pela mensagem de erro da Pergunta 3), mas só ali);
 - Algumas perguntas não usam as condicionais `if` e `else`, elas são apenas pra um drama a mais;
-- O Final Bom é o que você responde tudo corretamente e termina o jogo, os outros com loops infinitos ou erros e resets são Finais Ruins.
+- O Final Bom é o que você responde tudo corretamente e termina o jogo, os outros com loops infinitos ou erros e resets são Finais Ruins;
+- Eu usei várias vezes a função `time.sleep()` pra dar uma pausa de uma pergunta ou mensagem à outra, assim não ficaria tão confuso e mais interessante.
 
 ## Espero que goste!

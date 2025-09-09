@@ -1,4 +1,5 @@
 # Programa Interativo: Jogo de Perguntas 
+
 import time
 
 while True:

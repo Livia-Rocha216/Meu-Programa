@@ -78,6 +78,6 @@ while True:
         print("Ótim0. Bom sab3r que 4inda exist3m alm4s b0as.")
         time.sleep(1)
         print("4cho qu3 devo t3 deix4r em paz 3ntã0. 0brig4do por j0gar, "+ nome +".")
-
+        break
         # Final Bom!
         # Quaisquer outros finais que resultem em loop infinito ou erro e recomeço são finais ruins.
